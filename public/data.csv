@@ -1,6 +1,10 @@
-Year,Rating
-2008,86
-2009,96
-2010,100
-2011,100
-2012,97
+Employee Code,Tel No,Employee Name,Gender,Team Lead Name,Performance
+"EMP-0005",+98-615128915,"Umar",Male,"Abdul Mateen","Satisfactory"
+"EMP-0004",+98-117128515,"Tayyeb",Male,"Abdul Mateen","Excellent"
+"EMP-0008",+98-815108515,"Tahir",Male,"David","Satisfactory"
+"EMP-0003",+98-815128515,"Ubaid",Other,"Abdul Mateen","Good"
+"EMP-0002",+98-455128515,"ALi",Male,"Asif","Satisfactory"
+"EMP-0001",+98-815508515,"Hamza",Other,"Abdul Mateen","Satisfactory"
+"EMP-0006",+98-915120315,"Awais",Male,"David","Good"
+"EMP-0007",+98-810120565,"Usman",Male,"Abdul Mateen","Good"
+ 

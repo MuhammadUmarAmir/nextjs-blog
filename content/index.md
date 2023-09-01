@@ -1,7 +1,20 @@
 # My Dataset
 
-Built with PortalJS 
+#Built with PortalJS 
 
-## Table 
+## Employee Performance 
 
-<Table url="data.csv" />
+<Table url="data.csv" /> 
+
+# My Incredible Dataset
+
+Company Growth Chart
+
+## Chart
+
+<LineChart 
+    title="Company Growth Percentage"  
+    xAxis="Year"
+    yAxis="Growth" 
+    data="datatree.csv"
+/>
